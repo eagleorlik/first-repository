@@ -1,6 +1,6 @@
 package main;
 
-public class Szkolenie004_GalllonsToLiters {
+public class Szkolenie004_GallonsToLiters {
     // Wyświetl listę zamiany galonów na litry od 1l do 100l
     // 1 galon = 3.7854l
     // co 10 litów wyświetl pusty wiersz
